@@ -1,1 +1,1 @@
-__NUXT_JSONP__("/", {data:[{}],fetch:{},mutations:void 0});
+nuxt_JSONP__("/", {data:[{}],fetch:{},mutations:void 0});
